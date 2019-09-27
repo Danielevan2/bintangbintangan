@@ -27,7 +27,7 @@ console.log(bintang(7))
 //    *     1
 
 
-console.log()
+console.log(bintang(3))
 
 //  *    1
 // ***   3
